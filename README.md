@@ -1,4 +1,5 @@
 Town-Invasion
 =============
 
-A game made in python involving randomness and stuff.
+A game made in Python involving randomness and stuff.
+
